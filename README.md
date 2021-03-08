@@ -1,3 +1,16 @@
+# Login Form
+
+로그인 폼을 만들어 보았습니다.
+
+## email 정규식
+
+이메일 정규식을 사용해 보았습니다.
+/^[a-zA-Z0-9]+@[a-zA-Z0-9]+\.[A-Za-z]+$/
+
+### label htmlFor
+
+label의 htmlFor을 이용하여 input태그와 연결하기 쉽게 만들었습니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
